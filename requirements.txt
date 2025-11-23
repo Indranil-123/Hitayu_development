@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+numpy
+pandas
+scikit-learn
+langchain
+langchain-google-genai
+textblob
+spacy
+SQLAlchemy
+pydantic
+websockets
+python-dotenv
